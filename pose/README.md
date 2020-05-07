@@ -1,3 +1,5 @@
+# The head pose estimation code is sourced from here: https://github.com/yinguobing/head-pose-estimation
+
 # Head pose estimation
 
 This repo shows how to estimate human head pose from videos using TensorFlow and OpenCV.
